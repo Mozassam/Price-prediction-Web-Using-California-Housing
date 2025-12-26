@@ -1,0 +1,8 @@
+Flask
+sklearn
+pandas 
+numpy 
+matplotlib
+
+
+(# any library you want to install just write it hear and it will be installed by - pip install -r requirments.txt)
